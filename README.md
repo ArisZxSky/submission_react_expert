@@ -85,3 +85,4 @@ docs/                    panduan testing dan CI/CD
 submission-screenshots/  bukti CI error, CI pass, dan branch protection
 vercel.json              konfigurasi Vercel untuk Vite SPA
 ```
+# bismillah langsung diterima submission nya
