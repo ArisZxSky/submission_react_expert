@@ -1,0 +1,9 @@
+.github/
+docs/
+submission-screenshots/
+e2e/
+playwright-report/
+test-results/
+storybook-static/
+coverage/
+*.log
